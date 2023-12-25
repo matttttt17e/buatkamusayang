@@ -227,8 +227,9 @@ body {
 }
 
 .nine p {
-    font-size: 2rem;
+    font-size: 1rem;
     font-weight: lighter;
+    top: -20%px;
 }
 
 #replay {
@@ -291,7 +292,8 @@ body {
         font-size: 1.4rem;
     }
     .nine p {
-        font-size: 1.5rem;
+        font-size: 1rem;
         font-weight: lighter;
+        top: -20px;
     }
 }
